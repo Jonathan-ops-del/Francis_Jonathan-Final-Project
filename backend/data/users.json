@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ebc8ef10-f469-4db3-b5ec-0ceedd8ba72a",
+    "name": "ryan",
+    "password": "$2b$10$TVV7OZpRdcfqZztaVn3XHOrxNss7ZdbVYt9FLPq.VOXtv1hcS2J1a",
+    "email": "ryan@gmail.com"
+  },
+  {
+    "id": "52df2272-3412-49a3-9482-67b039c59ba7",
+    "name": "tyson",
+    "password": "$2b$10$HFf6EzMzOsOpn.LEDPYwgucQUieCqqjsFGewcNaIdRb0Q2R/7aPee",
+    "email": "tyson@gmail.com"
+  },
+  {
+    "id": "4346b480-b962-4c88-96e8-f0c995cda753",
+    "name": "ryangonalez",
+    "password": "$2b$10$5D/m1zrEOC.XOMR1yxagz.gSb7rbmNR6h.7z/hjXNq7PeLpzEtcAu",
+    "email": "ryan@gmail.com"
+  },
+  {
+    "id": "fa6221b8-2f1a-4af8-976a-0af3ca897178",
+    "name": "ryan",
+    "password": "$2b$10$m9v6AjrLoV8MVanCKMOeRuXXIBFa49rFgVrqtfFZFYmI28HanXYTC",
+    "email": "ryan@gmail.com"
+  },
+  {
+    "id": "9ec4b628-47c6-48b5-a7b6-414db575a52c",
+    "name": "love",
+    "password": "$2b$10$Rd0DYLUn6DL7FcSzcilEX.tZ1M5URCBY26A9Ric2U46pFKwjDi6VW",
+    "email": "love@gmail.com"
+  }
+]

@@ -1,0 +1,611 @@
+/*HomePage CSS*/
+.home-pg-body{
+    margin:0px;
+    padding:0px;
+  }
+  
+  
+  .home-pg-section
+  {
+  margin:0px;  
+  background-image:url(images/jfrancis.jpeg);
+  background-size:100% 100%;
+  background-repeat:no-repeat;
+  background-position:center;
+  padding:410px;
+  line-height: 50px;
+  }
+  
+  .home-pg-main{background-color:gainsboro;
+    border:10px solid blue;
+  }
+  
+    .home-pg-h1{font-size:70px;
+    font-style:italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    color:grey;
+    font-weight:bold;
+    margin:0px;}
+  
+    .home-pg-container{
+      width:100%;
+      padding:150px;
+      margin-left:auto;
+      margin-right:auto;
+      margin:0;
+    }
+  
+    .home-pg-p1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    text-align:justify;
+    line-height:35px;}
+  
+    .home-pg-article{background-color:lightseagreen;
+      text-align:center;
+    }
+  
+    .home-pg-blockquote{text-align:center;
+    color:white;
+    font-weight:bold;
+    font-size:22px;
+    font-style:italic;
+    padding:15px;
+    margin:0px;
+    border:25px solid black;}
+  
+    .home-pg-p2{text-align:center;
+    color:purple;
+    font-size:27px;
+    margin:0px;
+   }
+  
+    .home-pg-nav{text-align:center;
+    line-height:150px;
+    margin:0px;
+  }
+  
+  .bottom-pg {background-color:orange;
+      margin:0px;
+      border:20px groove purple;
+   }
+  
+  
+  /* CSS code for Resume*/
+  
+  .resume-pg-body{border:20px dotted black;}
+  
+   
+  .resume-pg-header {
+   background-color:lightgray;
+   text-align: center;
+   padding: 20px;
+   border:20px solid black;
+   margin:30px;
+  }
+  
+  .resume-pg-ul-2 {list-style-type: none;
+   margin-right:20px;
+   padding: 0px;
+   overflow: hidden;
+   width:20%;
+   background-color: #333;}
+  
+  .resume-pg-li-2 {float: left;}
+  
+  .resume-pg-li-2-a {display: block;
+   color: white;
+   padding: 15px 18px;
+   text-decoration: none;}
+  
+  .resume-pg-li-2-a:hover {
+     background-color:black;
+   }
+   .resume-pg-container{ width:100%;
+     padding:60px;
+   
+   }
+  
+  .resume-pg-h1 {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight:bold;
+  }
+  
+  .resume-pg-main {
+   background-color:lightgray;
+   margin:30px;
+   border:20px solid black;
+  }
+  
+  .resume-pg-fieldset{
+   border:5px solid black;
+  }
+  
+  .resume-pg-legend{color:black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .resume-pg-p1{font-size:18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align:justify;
+  line-height:28px;}
+  
+  .resume-pg-h4 {text-decoration:underline;
+  font-size:18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;}
+  
+  .resume-pg-h5{text-align: right;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;}
+  
+   .resume-pg-p{text-align:justify;
+   font-size:15px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   line-height:20px;}
+  
+  dt{font-size:23px;
+  font-style:italic;
+  text-align:center;
+  font-weight:bold;}
+  
+  dd{font-family:cursive;
+  font-size:15px;
+  text-align:center;}
+  
+  .resume-pg-ul {column-count:2;
+   font-size:15px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   line-height:20px;}
+  
+  
+   /*CSS for coverLetter*/
+  
+  .cover-letter-body{
+      border: 15px solid darkgreen;
+      padding: 50px;
+      margin: 20px;}
+    
+      .cover-letter-h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size:30px;
+      font-style:italic;
+      text-decoration:underline;
+      text-align:center;
+    }
+    
+    .cover-letter-p1{
+      text-align:right;
+      font-size:13px;
+      font-style:italic;
+      font-weight:bold;
+    }
+    
+    .cover-letter-h5 {
+    font-style:italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;}
+    
+    /*CSS for Portfolio*/
+    
+    .porfolio-pg-body{
+      border: 15px solid gold;
+      padding: 50px;
+      margin: 20px;
+      background-color:beige;}
+      
+    .portfolio-pg-container{
+      width:100%;
+      padding:80px;
+    }
+    
+    .portfolio-pg-h1{
+    font-size:60px;
+    text-decoration:underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;}
+    
+    .portfolio-pg-h3{text-align:center;
+    font-size:30px;
+    font-family:cursive;
+    color:orange;
+    }
+    
+    .portfolio-nav {text-align:center;
+    font-size:20px;
+    }
+    
+    .portfolio-p1{
+    text-align:justify;
+    font-size:20px;
+    font-family:cursive;
+    line-height:40px;}
+    
+    .portfolio-p2 {line-height:30px;
+      color:black;
+      text-align:justify;
+      font-family:'Times New Roman', Times, serif;
+    
+    }
+    
+    
+    .portfolio-pg-row:after{
+      content: "";
+      display: table;
+      clear: both;
+    }
+    .portfolio-pg-column{
+      float: left;
+      width: 50%;
+      padding: 15px;
+    }
+    
+    .portfolio-pg-blockquote{font-size:30px;
+      font-weight:bold;
+      font-family:cursive;
+      text-align:right;
+      color:darkgreen;}
+    
+  
+      /*CSS For Project 1*/  
+  
+    .project1-body{
+      margin:0px; 
+      padding: 0px;
+      background-color: yellow;
+    }
+    
+    *{
+      box-sizing: border-box;
+    }
+    
+    .project1-header{
+      padding: 40px;
+      margin:0px;
+      text-align: center;
+      font-size:30px;
+      font-family:cursive;
+      color:red;
+      background-color: navy;
+      border:15px groove red;
+      }
+  
+      .project1-main{
+        border:15px groove navy;
+      }
+    
+    .project1-p1{font-size:20px;
+    font-family:cursive;
+    text-align:center;
+    line-height:35px;
+    width:100%;
+    padding:20px;}
+    
+    .project1-h5{font-size:20px;
+     text-align:center;
+     text-decoration: underline;
+    }
+    .project1-p2
+    {font-size:14px;
+    font-family:cursive;
+    text-align:center;}
+    
+    .project1-container{width:100%;
+        padding:120px;}
+      
+    
+    .project1-column{
+      float: left; 
+      width: 33.33%;
+      padding: 20px; 
+    }
+    
+    .project1-row:after{
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+    .project1-img{
+      border:10px solid black;
+      height: auto;
+      width: 100%;}
+    
+    .project1-footer{
+      background-color:red;
+      padding: 30px;
+      margin:0px;
+      text-align: center;
+      border:15px groove yellow;
+      color:red;}
+      
+    .project1-h4{
+      color:white;
+      font-size:20px;
+      text-align: center;
+      font-family:cursive;
+    }
+  
+  /*CSS For Project 2*/
+  
+  .project2-body{
+    margin:0px;
+    padding: 0px;
+    border:15px dotted black; 
+    background-color: lightgray;
+  }
+  
+  *{
+    box-sizing: border-box;
+  }
+  
+  .project2-header{
+    padding: 10px;
+    margin:0px;
+    text-align: center;
+    font-size:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border:20px outset white;
+    background-color:lightslategrey;
+    color:white;
+    }
+  
+  .project2-p1{font-size:20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align:justify;
+  line-height:35px;
+  width:100%;
+  padding:20px;}
+  
+  .project2-h5{font-size:40px;
+   text-align:center;
+  }
+  .project2-p2
+  {font-size:16px;
+  font-family:cursive;
+  text-align:justify;}
+  
+  .project2-container{width:100%;
+      padding:120px;}
+    
+  
+  .project2-column{
+    float: left; 
+    width: 33.33%;
+    padding: 20px; 
+  }
+  
+  .project2-row:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .project2-img{
+    border:10px solid black;
+    height: auto;
+    width: 100%;}
+  
+  .project2-footer{
+    background-color:lightslategrey;
+    padding: 20px;
+    margin:0px;
+    text-align: center;
+    border:20px outset white;
+    color:rebeccapurple;}
+  
+    /*CSS FOR THEO'S PAGE*/
+  
+  .theo-pg-body{margin:0px;
+    border:15px dashed blue;
+    background-image:url("background/catpaw.jpeg");
+  }
+  
+  .theo-pg-h1{
+    text-align: center;
+    font-size:50px;
+    color:black;
+    font-family:cursive;
+  }
+  
+  .theo-pg-container{
+    width:100%;
+    padding:150px;
+  }
+  
+  .theo-pg-row:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .theo-pg-column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    text-align:center;
+  }
+    
+  
+  .theo-img1{
+  border:22px solid grey;
+  width:70%;
+  height:auto;
+  }
+  
+  .theo-img2{
+  border:22px solid lightblue;
+  width:70%;
+  height:auto;
+  }
+  
+  .theo-img3{
+  border:22px solid lightsteelblue;
+  width:70%;
+  height:auto;
+  }
+  
+  .theo-img4{
+  border:22px solid silver;
+  width:70%;
+  height:auto;
+  }
+  
+  .theo-pg-h5 {
+    color:grey;
+    font-size:14px;
+    text-align: center;
+  }
+  
+  
+  
+  /*CSS FOR Ollie's Page*/
+  
+  .ollie-pg-body{margin:0px;
+    border:20px groove palevioletred;
+    background-image:url("background/catpaw2.png");}
+  
+  .ollie-pg-h1{
+    text-align: center;
+    font-size:90px;
+    text-decoration: underline;
+    font-family:cursive;
+    color:black;
+  }
+  
+  .ollie-pg-container{
+    width:100%;
+    padding:150px;
+  }
+  
+  .ollie-pg-row:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .ollie-pg-column{
+    float: left;
+    width: 50%;
+    padding: 10px;}
+  
+  
+  .ollie-img1{
+    border:20px groove red;
+    width:100%;
+    height:auto;
+   }
+    
+    .ollie-img2{
+    border:20px groove yellow;
+    width:100%;
+    height:auto;  
+  }
+    
+    .ollie-img3{
+    border:20px groove green;
+    width:100%;
+    height:auto;}
+    
+    .ollie-img4{
+    border:20px groove blue;
+    width:100%;
+    height:auto;}
+  
+    .ollie-pg-h5{
+      color:darkmagenta;
+      font-size:14px;
+      text-align: center;
+    }
+  
+  /*CSS FOR Mickey's Page*/
+  
+  .mickey-pg-body{margin:0px;
+    border:20px groove white;
+    background-image:url("background/dog.jpeg")
+  }
+  
+  .mickey-pg-h1{
+    text-align: center;
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    background-color:grey;
+    width:25%;
+    position:relative;
+    left:38%;}
+  
+  .mickey-pg-container{
+      width:100%;
+      padding:150px;}
+    
+  
+  .mickey-pg-row:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .mickey-pg-column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    text-align:center;}
+  
+  
+  .mickey-img1{
+    border:20px groove silver;
+    width:60%;
+    height:auto;
+  }
+    
+    .mickey-img2{
+    border:20px groove lightsteelblue;
+    width:60%;
+    height:auto;
+  }
+    
+    .mickey-img3{
+    border:20px groove lightskyblue;
+    width:60%;
+    height:auto;
+    }
+    
+    .mickey-img4{
+    border:20px groove lightgray;
+    width:60%;
+    height:auto;
+    }
+  
+    .mickey-pg-h5{
+      color:blue;
+      font-size:14px;
+      text-align: center;
+    }
+  
+  /*Main Footer CSS for all pages*/
+  
+  .footerDiv{
+  margin:0px;
+  padding:10px;
+  
+  }
+  
+  .footerH5{
+  text-decoration: underline;
+  text-align:center;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-break: normal;
+  }
+  
+  .footerP{
+  text-align:center;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  }
+  
+  /*navbar for all pages*/
+  
+  .navbar{
+    margin:0px;
+    padding:0px;
+    line-height: 40px;
+  }      
