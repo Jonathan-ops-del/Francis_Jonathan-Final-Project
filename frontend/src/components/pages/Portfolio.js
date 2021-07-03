@@ -28,7 +28,7 @@ return (
                         <h3 className="portfolio-pg-h3">Project 1: "Comic Book Club"</h3>
                 
                   <nav className="portfolio-nav">
-                        <Link to={"Project1"}>Comic Book Club</Link>
+                        <Link to={"Project1"}>Comic Book Club - Click Here</Link>
                    </nav>
               
                      <p className="portfolio-p2">The Project titled The Comic Book Club is a website that my team from my Full Stack Web Development Course & I have worked on as part of an assignment. This was one of our first assignments in the Course. The concept behind the assignment was to essentially design a website that brings to life a gallery. My team and I had a joint interest in Comic Books and we had decided to build this and bring our concept of a Comic Book Gallery to life. Please click on the link to see some snipets & a preview of what we are working on together.  </p>  
@@ -42,7 +42,7 @@ return (
                         <h3 className="portfolio-pg-h3">Project 2: "Adopt Don't Shop!"</h3>
                 
                 <nav className="portfolio-nav">
-                        <Link to={"Project2"}>Adopt Don't Shop!</Link>
+                        <Link to={"Project2"}>Adopt Don't Shop! - Click Here</Link>
                 </nav>
                
                 <p className="portfolio-p2">This is a personal project that I have worked on myself. The purpose behind this project is to bring to attention the importance of adopting pets & not encouraging backyard breeders who neglect & abuse animals while breeding "the perfect pet." I wanted to bring to attention the importance of adopting & giving a voice for the voiceless. This Gallery consists of my own pets whom i have adopted in the course of my life and have built a strong loving home for. I hope this will encourage you to ADOPT & NOT SHOP!</p>  

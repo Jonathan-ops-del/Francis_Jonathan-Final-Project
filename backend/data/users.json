@@ -46,5 +46,23 @@
     "name": "Tony Jahamon",
     "password": "$2b$10$Hcf1IWnv1iawWBNCPGd5N.VvomNcoPpYYk/Q25kRZ1p7cvSNJ5dTK",
     "email": "yahoo@gmail.com"
+  },
+  {
+    "id": "1a429944-5112-41a6-9a54-ecbb0d6da019",
+    "name": "Tony",
+    "password": "$2b$10$/jXAOozNTjo/QxxRux8By.ivzasdsoI6uirsnc2rKUZNkWHQvawUW",
+    "email": "yahoo@gmail.com"
+  },
+  {
+    "id": "a7186a14-8393-4a04-8bf2-09a339980359",
+    "name": "jaxson",
+    "password": "$2b$10$.FGyJu5zOMgdDeMoMfxE0e.wB04.N.xom7DoJJmUPiKPOmXd9CcSW",
+    "email": "yahooman@gmail.com"
+  },
+  {
+    "id": "7ccb764d-3f4d-441d-8d80-3e107d40a900",
+    "name": "Yo man",
+    "password": "$2b$10$92Rvp52A0LFZeulo532HtuDkpt1k6fVttGp1P9nvTbs35VOzcxJqu",
+    "email": "gmail@yahoo.com"
   }
 ]
