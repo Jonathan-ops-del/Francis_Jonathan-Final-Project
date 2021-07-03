@@ -28,5 +28,11 @@
     "name": "love",
     "password": "$2b$10$Rd0DYLUn6DL7FcSzcilEX.tZ1M5URCBY26A9Ric2U46pFKwjDi6VW",
     "email": "love@gmail.com"
+  },
+  {
+    "id": "85a9dc7c-9297-443a-93a5-507c455aa5b8",
+    "name": "Jonathan Francis",
+    "password": "$2b$10$.vQRMbI/QSQvjYBVA.HzVecv5bWJTJgisn8e3Qk2JNpdnnHPX3JhG",
+    "email": "jjonathan.francis@gmail.com"
   }
 ]

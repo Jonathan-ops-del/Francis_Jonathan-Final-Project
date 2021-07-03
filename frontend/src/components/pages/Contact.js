@@ -26,16 +26,16 @@ const Contact = () => {
                     </Col>
                 </FormGroup>
                 <FormGroup row>
-                    <Label for="nameEntry" sm={2}>First Name (Lowercase)</Label>
+                    <Label for="nameEntry" sm={2}>Full Name</Label>
                     <Col sm={10}>
                     <Input type="name" name="name" id="nameEntry" placeholder="Enter your first name only" required />
                     </Col>
                 </FormGroup>
 
                 <FormGroup row>
-                    <Label for="messageEntry" sm={2}>One Word Message Only! Be Unique (Lowercase)</Label>
+                    <Label for="messageEntry" sm={2}>Type your Message Here</Label>
                     <Col sm={10}>
-                    <Input type="textarea" name="text" id="messageEntry" placeholder="One Word only!" required />
+                    <Input type="textarea" name="text" id="messageEntry" placeholder="Type Here!" required />
                     </Col>
                 </FormGroup>
                 <FormGroup check row>

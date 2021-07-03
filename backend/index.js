@@ -23,7 +23,7 @@ app.use(cors())
 
 
 //Create Entries
-app.post("/contact_form/entries", validateEntries, body('name').isAlpha(),body('email').isEmail(),body('phoneNumber').isMobilePhone(),body('content').isAlpha(),(req,res) => {
+app.post("/contact_form/entries", validateEntries, body('name').notEmpty(),body('email').isEmail(),body('phoneNumber').isMobilePhone(),body('content').notEmpty(),(req,res) => {
     let newEntries = {
         id: uuidv4(),
         name: req.body.name,
@@ -53,7 +53,7 @@ app.post("/contact_form/entries", validateEntries, body('name').isAlpha(),body('
 })
 
 //Create Users
-app.post("/users", validateUser,body('name').isAlpha(),body('password').isLength({ min: 8 }),body('email').isEmail(),(req,res) =>{
+app.post("/users", validateUser,body('name').notEmpty(),body('password').isLength({ min: 8 }),body('email').isEmail(),(req,res) =>{
   let newUser = {
       id: uuidv4(),
       name: req.body.name,

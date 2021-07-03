@@ -14,7 +14,7 @@ const User = () => {
             </Card>
             <Form className="my-5" onSubmit={(e)=>user(e)}>
             <FormGroup row>
-                    <Label for="nameEntry" sm={2}>First Name (Lowercase)</Label>
+                    <Label for="nameEntry" sm={2}>Full Name</Label>
                     <Col sm={10}>
                     <Input type="name" name="name" id="nameEntry" placeholder="Enter your first name only" required/>
                     </Col>
