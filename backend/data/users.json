@@ -34,5 +34,17 @@
     "name": "Jonathan Francis",
     "password": "$2b$10$.vQRMbI/QSQvjYBVA.HzVecv5bWJTJgisn8e3Qk2JNpdnnHPX3JhG",
     "email": "jjonathan.francis@gmail.com"
+  },
+  {
+    "id": "3d9bd7cf-da93-4d7f-9315-7b5284ee9ee7",
+    "name": "Jonathan Francis",
+    "password": "$2b$10$jPalHz/zZrNAWT0Cf9woa.LRb09zpZjoVlXi41bB.1fbAq8Rzr1H2",
+    "email": "tonyman@gmail.com"
+  },
+  {
+    "id": "6b0401f6-fc25-46b7-8e99-021fdc93dd0f",
+    "name": "Tony Jahamon",
+    "password": "$2b$10$Hcf1IWnv1iawWBNCPGd5N.VvomNcoPpYYk/Q25kRZ1p7cvSNJ5dTK",
+    "email": "yahoo@gmail.com"
   }
 ]

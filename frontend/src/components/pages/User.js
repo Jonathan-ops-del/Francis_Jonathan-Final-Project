@@ -16,7 +16,7 @@ const User = () => {
             <FormGroup row>
                     <Label for="nameEntry" sm={2}>Full Name</Label>
                     <Col sm={10}>
-                    <Input type="name" name="name" id="nameEntry" placeholder="Enter your first name only" required/>
+                    <Input type="name" name="name" id="nameEntry" placeholder="Enter your full name" required/>
                     </Col>
             </FormGroup>
             <FormGroup row>
