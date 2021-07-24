@@ -27,12 +27,30 @@ export default class Listing extends Component {
         })
         .catch(err => console.log(err))
     }
-
-  render(){
-    // If we get a list of entries, display "Hi!"
-    if (this.state.user.length > 0) return <h2>Welcome, You have Successfully Logged in!</h2>
+    render() {
+        return (
+            <div>
+            {
+            this.state.user.length > 0 && (
+                        <div>
+                        <h2>Welcome, You have Successfully Logged in!</h2>
+                  
+                        {
+                        this.state.user.map(user => (
+                        <div>
+                        <p> User Id: {user.id}</p>
+                        <p> Name: {user.name} </p>
+                        <p> Email: {user.email} </p>
+                        <p> Phone Number: {user.phoneNumber} </p>
+                        <p> Content: {user.content} </p>
+                        </div>
+                        ))
+                        }
+                        </div>
+            )          
+            }
+          </div>
     
-    // If list of entires is empty, display "You are not logged in"
-    return <h2>You are not logged in </h2>
-  }   
+        )
+    }
 }

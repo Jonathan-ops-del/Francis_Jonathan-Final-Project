@@ -64,5 +64,137 @@
     "name": "Yo man",
     "password": "$2b$10$92Rvp52A0LFZeulo532HtuDkpt1k6fVttGp1P9nvTbs35VOzcxJqu",
     "email": "gmail@yahoo.com"
+  },
+  {
+    "id": "b3b5b729-fcdf-4cb7-9b88-83c2a45ab97b",
+    "name": "Roshan Hudson",
+    "password": "$2b$10$PTp8YK0SdYiPe0mXpRXT0uNU/ynyppAxC8JwevtrspDquPMHGf5L6",
+    "email": "roshan@live.ca"
+  },
+  {
+    "id": "d2aeff86-7e35-40ef-ae6e-48b7273b3acd",
+    "name": "Jonathan Francis",
+    "password": "$2b$10$gIm/ncr2AQmWVh1r8ds9YONZL7pLJM39LoRjlWzVMDPIpq1h7C8ci",
+    "email": "jjonathan.francis@gmail.com"
+  },
+  {
+    "id": "d346dea0-f126-4afb-8dab-083f66ba6f36",
+    "name": "tony montana",
+    "password": "$2b$10$kNVU8I8oSXs6EP0zR3gH7O9zlXrb1/wu.Fl5oX8vnPEmkN4hjJIRu",
+    "email": "tony@hotmail.com"
+  },
+  {
+    "id": "c0792a5a-2aa7-42c7-9f52-a5ab5a1a815c",
+    "name": "Tony Jordan",
+    "password": "$2b$10$0G52xZ2Z4kxXTlpwJR.AOel0HnCFUAcBaxxoOUzkumwKOoOIwm..m",
+    "email": "jordan@hotmail.com"
+  },
+  {
+    "id": "35fa081f-f5b3-41d5-b19c-e434ade472ce",
+    "name": "MIchael Barkley",
+    "password": "$2b$10$Wi9HZwF6/hKDvXb/09osoeYW43ObGelWYvPGsQX1iCPf1.o9C42dy",
+    "email": "michael@gmail.com"
+  },
+  {
+    "id": "7c6422c6-2c26-4378-9ef7-7e42938f7f1d",
+    "name": "MIchael Barkley",
+    "password": "$2b$10$DK9bxE1TLMva8/qth..TMOf7efuvEuDf4Zm1CY.ExzUkgv5HrEFIC",
+    "email": "michael@gmail.com"
+  },
+  {
+    "id": "dee74651-58ba-493c-b0f3-98a02eb271d3",
+    "name": "johnson michael",
+    "password": "$2b$10$dF37Xm84NYnERUpvt.hKSecrYTsSBo5nWRMS8M4oyS19e2qzkcM4K",
+    "email": "money@gmail.com"
+  },
+  {
+    "id": "6c8890d2-fda8-4bcc-a0de-fecf8fb73bb2",
+    "name": "Vinthan Danah",
+    "password": "$2b$10$.u8IMs0oG1OCZPOlHPSCzuYUi6SGMtdf8SPidcfUaaGDMrJkM.2jK",
+    "email": "danah@gmail.com"
+  },
+  {
+    "id": "722c88a4-3b66-4098-b679-37fc62a4dc81",
+    "name": "vinthan panda",
+    "password": "$2b$10$fdyPzuaLD4RYDoQCbaTFR.AsBjpGv1uiJiQjM8GYDTzoUy6e7jRnu",
+    "email": "panda@gmail.com"
+  },
+  {
+    "id": "dd0e75fa-3358-43c2-b392-1a4751bf4c3d",
+    "name": "vintahn s",
+    "password": "$2b$10$33JXk35g5goEDDB54N2OseBI7yl7M3/eKnmHQjQbdSlIQbCyLaDjK",
+    "email": "vin@gmail.com"
+  },
+  {
+    "id": "16f3772e-58d1-46e5-b187-765480ef8d04",
+    "name": "jason macklin",
+    "password": "$2b$10$EnhLvdy/AWJuqvcWADi1w.OrPB/UMl3r.6d1KVyLGyvQb68O8DGtO",
+    "email": "lakers@gmail.com"
+  },
+  {
+    "id": "9b084c39-4fdd-4f09-8dc0-3809380bdc46",
+    "name": "Jonathan Francis",
+    "password": "$2b$10$8eN7z1.fkiteQFu8DFjeZegkF0GQiRrD54MhM0WIOC01mIhXD7hPG",
+    "email": "raptors@gmail.com"
+  },
+  {
+    "id": "48a6cda6-f355-4c29-b13d-cbe27b812a87",
+    "name": "danah movie",
+    "password": "$2b$10$GjhSf8tqyTx3mASzitqmze2bEeuARPpBbZJMPRKUNH2IMau4tvnZK",
+    "email": "raptors@gmail.com"
+  },
+  {
+    "id": "4908bc9f-d57c-4746-add3-4c31bfbac91f",
+    "name": "money man",
+    "password": "$2b$10$Yza2YwLOkJ4AdDUh0zE84eeb6WPS4yFVy/sbAocwrmQ9bGe.V8.KS",
+    "email": "orlando@gmail.com"
+  },
+  {
+    "id": "5bb1486a-a914-491d-b8b5-448d4acb14c2",
+    "name": "Mason Mason",
+    "password": "$2b$10$4FF5Unvkw2931e0BvMnGIeaFWaszoSsvnZjNGI3DDiCYXOfLNvXQa",
+    "email": "bulls@gmail.com"
+  },
+  {
+    "id": "040894a3-c763-44ca-a054-ed22b588b1bd",
+    "name": "Leonardo DIcaprio",
+    "password": "$2b$10$9BM5WZlnPdjtKdxiNO77ru5lWBRWBvHoNuQKzH4lR5jpr9KsedKw6",
+    "email": "leo@gmail.com"
+  },
+  {
+    "id": "6ba5c25d-40a1-47ac-a606-cdfecfb3fa71",
+    "name": "michael jordan beasley",
+    "password": "$2b$10$5uUPuPbevQRoPJ.LtVWK2OjhYqMj42BaoeO9idHGAVcqO/MS1vzw6",
+    "email": "bulls@hotmail.com"
+  },
+  {
+    "id": "3f675846-7012-412f-87a8-aea586925c17",
+    "name": "jordan man",
+    "password": "$2b$10$lPSN1ZTv8TcadV8ec5fqe.PrrfY3VKobbNty2.dX3axpmPHeE3MBu",
+    "email": "justice@gmail.com"
+  },
+  {
+    "id": "874ed1e2-af43-43c6-a93b-369b5e755dec",
+    "name": "tony akon",
+    "password": "$2b$10$Y/aC2pKKLWSttI3t3QtRUeUK9SjpuMI7VmsaixrFqCuhDC634hyci",
+    "email": "akon@gmail.com"
+  },
+  {
+    "id": "26e23b78-1acb-4d40-811b-494e1ab63814",
+    "name": "michael jordan",
+    "password": "$2b$10$CISZT188U8SDNBv/5qABBOvG99.um/0aIco5T4npvLou1B0Anr7nS",
+    "email": "michael@gmail.com"
+  },
+  {
+    "id": "f7eec7c9-cd6a-406b-b5d8-beafc4649891",
+    "name": "micahel basel",
+    "password": "$2b$10$E8aG3wMXIscs/FVj2MgpL.g27pPmLoshZYx5T51N/4of8xWUO88Zi",
+    "email": "odom@gmail.com"
+  },
+  {
+    "id": "e336046a-4660-4e30-ab21-9d1f0896a72d",
+    "name": "Soosipillai Francis",
+    "password": "$2b$10$ajmPtoBG0DszLUCCQqeLnuYrRPuPt2bRHF.t9JzImcx14pVUYCINe",
+    "email": "SoosipillaiFrancis@gmail.com"
   }
 ]

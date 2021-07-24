@@ -6,9 +6,11 @@ import axios from "axios"
 class Login extends Component {
     constructor(props) {
         super(props)
+       
         this.state = {
-            token: ''
-        }
+          token: '',
+          authenticationFailed: false
+      }
         this.login = this.login.bind(this);
     }
 
@@ -23,24 +25,27 @@ class Login extends Component {
        .then(res => {
            const token = res.data;
             localStorage.setItem("token", token)
-            this.setState({token})
+            this.setState({token, authenticationFailed: false})
         })
        .catch(err =>{
         console.log(err);
+        this.setState({token: '', authenticationFailed: true})
         })
     }
 
 
 
     render() {
-        const {token} = this.state;
+        const {token, authenticationFailed} = this.state;
         console.log("LOGIN PAGE TOKEN", token)
+        console.log(authenticationFailed)
 
         if(token) return <Redirect to='/submissions'/>
         
         return (
             <Container>
               <Form className="my-5" onSubmit={(e)=>this.login(e)}>
+              {authenticationFailed && "You entered the incorrect credentials. Please sign in again."}
                 <Row form>
                   <Col md={6}>
                     <FormGroup>
