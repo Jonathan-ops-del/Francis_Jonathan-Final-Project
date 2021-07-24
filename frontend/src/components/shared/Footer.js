@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const wooter = () => {
+const Footer = () => {
     return(
 
     <div className="footerDiv">
@@ -16,4 +16,4 @@ const wooter = () => {
   )
 }
 
-export default wooter;
+export default Footer;
