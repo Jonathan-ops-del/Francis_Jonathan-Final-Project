@@ -38,11 +38,13 @@ export default class Listing extends Component {
                         {
                         this.state.user.map(user => (
                         <div>
-                        <p> User Id: {user.id}</p>
-                        <p> Name: {user.name} </p>
-                        <p> Email: {user.email} </p>
-                        <p> Phone Number: {user.phoneNumber} </p>
-                        <p> Content: {user.content} </p>
+                        <ol>
+                        <li> User Id: {user.id}</li>
+                        <li> Name: {user.name} </li>
+                        <li> Email: {user.email} </li>
+                        <li> Phone Number: {user.phoneNumber} </li>
+                        <li> Content: {user.content} </li>
+                        </ol>
                         </div>
                         ))
                         }

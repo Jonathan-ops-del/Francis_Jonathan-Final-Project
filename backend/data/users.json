@@ -202,5 +202,11 @@
     "name": "Mary Teresa",
     "password": "$2b$10$klkaGNFMSGwo7jqC/lvAhu8LzteBR7ENPkQ248y61vbgr1Oht2J7y",
     "email": "mary@gmail.com"
+  },
+  {
+    "id": "b93972a3-6ef9-490f-9318-0250417433c3",
+    "name": "Kobe Bryant",
+    "password": "$2b$10$GKCBr75qs.YMU2zOPbkmsOVlgUm5QCwigAHKqsWZmHfyW1XXyTyCC",
+    "email": "kobe@gmail.com"
   }
 ]
