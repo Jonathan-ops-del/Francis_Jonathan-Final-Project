@@ -196,5 +196,11 @@
     "name": "Soosipillai Francis",
     "password": "$2b$10$ajmPtoBG0DszLUCCQqeLnuYrRPuPt2bRHF.t9JzImcx14pVUYCINe",
     "email": "SoosipillaiFrancis@gmail.com"
+  },
+  {
+    "id": "05972f18-8117-474c-b128-5061605f45d6",
+    "name": "Mary Teresa",
+    "password": "$2b$10$klkaGNFMSGwo7jqC/lvAhu8LzteBR7ENPkQ248y61vbgr1Oht2J7y",
+    "email": "mary@gmail.com"
   }
 ]
