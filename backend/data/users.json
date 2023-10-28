@@ -226,5 +226,11 @@
     "name": "Jason S",
     "password": "$2b$10$tTbVISiqyqkG6Nsy0cHSqOE/x.goBpZcBXKsN51M8ECMww9KLeHNu",
     "email": "jasons@gmail.com"
+  },
+  {
+    "id": "f9afe99c-cd52-4f55-a9f9-a63ebd33b01c",
+    "name": "JOY",
+    "password": "$2b$10$2E2KEuBFfpkWmCwhtzYkWeQL4oRnkYon/81YE1/9CCmt0TYltrIv2",
+    "email": "joyf@gmail.com"
   }
 ]
