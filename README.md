@@ -15,5 +15,5 @@ To Get Started :
 6) Once installed you can run "npm start" in the terminal dedicated to the backend.
 
 7) Starting the Frontend.
-8) Open up the unused terminal, and run "npm install" to install the dependencies for the Frontend.
+8) Open up the second terminal, and run "npm install" to install the dependencies for the Frontend.
 9) Run "npm start" to have your React frontend running on http://localhost:3000/
