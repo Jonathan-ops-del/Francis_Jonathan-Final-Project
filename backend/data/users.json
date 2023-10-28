@@ -208,5 +208,23 @@
     "name": "Kobe Bryant",
     "password": "$2b$10$GKCBr75qs.YMU2zOPbkmsOVlgUm5QCwigAHKqsWZmHfyW1XXyTyCC",
     "email": "kobe@gmail.com"
+  },
+  {
+    "id": "9b9cbdb4-5c1c-484b-b526-bc79a248cb96",
+    "name": "Apena Sivananthan",
+    "password": "$2b$10$HGcPhu9cyFUoo4ESv5P6OeMf4A2KInqEMtdh51XoDl9cFFZTj4Hri",
+    "email": "apena.s@hotmail.com"
+  },
+  {
+    "id": "ec46465f-15de-4a0d-bcf2-4a28b9f70dd8",
+    "name": "Apena Sivananthan",
+    "password": "$2b$10$xtSHg.kcOKjRwc5Ky6XTxOciH4/RkAfmLiGni6B4npksa/v2L0LKO",
+    "email": "apena.s@hotmail.com"
+  },
+  {
+    "id": "d038216a-1c27-423a-91a4-e9e42b6369ce",
+    "name": "Jason S",
+    "password": "$2b$10$tTbVISiqyqkG6Nsy0cHSqOE/x.goBpZcBXKsN51M8ECMww9KLeHNu",
+    "email": "jasons@gmail.com"
   }
 ]
