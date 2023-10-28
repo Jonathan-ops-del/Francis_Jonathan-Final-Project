@@ -9,11 +9,11 @@ To Get Started :
 1) You will need to clone this project into your preferred Code Editor.
 2) In your Code Editor you will need to open up two terminals. One Terminal will be used to work the Frontend , and second for the Backend.
 
-Starting the Backend.
-3) Make sure to create .env file for the Backend portion of the project, you can use port 4001 , see .env.example file to copy into your own .env file
-4) You can now install the dependencies , run "npm install" in the terminal.
-5) Once installed you can run npm start in the terminal dedicated to the backend.
+3) Starting the Backend.
+4) Make sure to create .env file for the Backend portion of the project, you can use port 4001 , see .env.example file to copy into your own .env file
+5) You can now install the dependencies , run "npm install" in the terminal.
+6) Once installed you can run "npm start" in the terminal dedicated to the backend.
 
-Starting the Frontend.
-6) Open up the unused terminal, and run "npm install" to install the dependencies for the Frontend.
-7) Run "npm start" to have your React frontend running on http://localhost:3000/
+7) Starting the Frontend.
+8) Open up the unused terminal, and run "npm install" to install the dependencies for the Frontend.
+9) Run "npm start" to have your React frontend running on http://localhost:3000/
